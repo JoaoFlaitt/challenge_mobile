@@ -1,5 +1,12 @@
 # RN Assignment App
 
+Integrantes:
+  Gabriel Souza Fiore – RM553710
+  Guilherme Santiago – RM552321
+  Miguel Leal Tasso – RM553009
+  João Víctor Flaitt – RM553888
+  Lucca Calsolari – RM553678
+
 App móvel em **React Native (Expo)** que cumpre os requisitos:
 
 - **Login** com *validação de formulário* (e-mail e senha) ✔️  
